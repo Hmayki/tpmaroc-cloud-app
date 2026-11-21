@@ -27,7 +27,7 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-    private static final String HOME = "https://cloud.tpmaroc.com/";
+    private static final String HOME = "https://www.tpmaroc.com/";
     private static final int REQ_FILE = 1;
     private static final int REQ_STORAGE = 2;
 
